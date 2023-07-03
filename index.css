@@ -1,0 +1,15 @@
+body {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+  width: 384px;
+  min-height: 182px;
+}
+.bgColor {
+  background-color: #202124;
+}
+
+#btn-grp {
+  display: flex;
+  margin-top: 12px;
+}
